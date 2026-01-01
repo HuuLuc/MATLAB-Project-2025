@@ -1,4 +1,5 @@
 Giới thiệu
+
 Đây là đồ án xây dựng ứng dụng MATLAB (App Designer) hỗ trợ giải các bài toán phương pháp số thường gặp. Ứng dụng được thiết kế dạng nhiều tab, giúp người dùng nhập dữ liệu, chọn phương pháp và quan sát kết quả trực quan.
 
 Chức năng chính
